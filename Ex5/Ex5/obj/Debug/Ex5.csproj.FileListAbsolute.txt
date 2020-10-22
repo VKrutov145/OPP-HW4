@@ -1,0 +1,10 @@
+E:\Projects\Rider\HW4\Ex5\Ex5\bin\Debug\Ex5.exe.config
+E:\Projects\Rider\HW4\Ex5\Ex5\bin\Debug\Ex5.exe
+E:\Projects\Rider\HW4\Ex5\Ex5\bin\Debug\Ex5.pdb
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.csprojAssemblyReference.cache
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.Properties.Resources.resources
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.csproj.GenerateResource.cache
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.exe
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.pdb
+E:\Projects\Rider\HW4\Ex5\Ex5\obj\Debug\Ex5.Figure.resources
