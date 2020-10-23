@@ -1,0 +1,10 @@
+E:\Projects\Rider\HW4\Ex6\Ex6\bin\Debug\Ex6.exe.config
+E:\Projects\Rider\HW4\Ex6\Ex6\bin\Debug\Ex6.exe
+E:\Projects\Rider\HW4\Ex6\Ex6\bin\Debug\Ex6.pdb
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.csprojAssemblyReference.cache
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.Properties.Resources.resources
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.csproj.GenerateResource.cache
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.exe
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.pdb
+E:\Projects\Rider\HW4\Ex6\Ex6\obj\Debug\Ex6.Triangle.resources

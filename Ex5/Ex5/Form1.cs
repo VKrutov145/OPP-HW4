@@ -58,6 +58,14 @@ namespace Ex5
         {
             edgeC = newEdgeC;
         }
+
+        public bool CheckExistence()
+        {
+            double a = edgeA;
+            double b = edgeB;
+            double c = edgeC;
+            return (((a+b)>c)&&((b+c)>a)&&((a+c)>b)&&(a>0)&&(b>0)&&(c>0));
+        }
     }
     class Circle : Figure
     {
@@ -303,8 +311,15 @@ namespace Ex5
                 }
                 case "Triangle":
                 {
-                    labelAreaResult.Text = triangle1.CalculateArea().ToString("##.##");
-                    labelPerimeterResult.Text = triangle1.CalculatePerimeter().ToString("##.##");
+                    if (triangle1.CheckExistence())
+                    {
+                        labelAreaResult.Text = triangle1.CalculateArea().ToString("##.##");
+                        labelPerimeterResult.Text = triangle1.CalculatePerimeter().ToString("##.##");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Triangle does not exist, check input numbers");
+                    }
                     break;
                 }
             }

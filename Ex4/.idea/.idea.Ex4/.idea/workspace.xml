@@ -14,8 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00185cec-3d1e-46ba-afeb-29c992688658" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex4/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex4/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex5/.idea/.idea.Ex5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5/Ex5/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex5/Ex5/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5/Ex5/bin/Debug/Ex5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex5/Ex5/bin/Debug/Ex5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5/Ex5/bin/Debug/Ex5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex5/Ex5/bin/Debug/Ex5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5/Ex5/obj/Debug/Ex5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex5/Ex5/obj/Debug/Ex5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5/Ex5/obj/Debug/Ex5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex5/Ex5/obj/Debug/Ex5.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +27,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/215F2307-E820-492D-A272-E3ABA04F3DFF/c9/f24dc490/TextBox.cs" root0="SKIP_HIGHLIGHTING" />
@@ -93,6 +97,7 @@
       <workItem from="1603394944347" duration="61000" />
       <workItem from="1603395215491" duration="222000" />
       <workItem from="1603397919687" duration="40000" />
+      <workItem from="1603435321499" duration="161000" />
     </task>
     <servers />
   </component>
